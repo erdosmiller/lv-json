@@ -21,5 +21,7 @@ Requirements
 ------------
 
 OpenG Toolkit
+
 MGI Tools
+
 Requires LabVIEW 2015 or later

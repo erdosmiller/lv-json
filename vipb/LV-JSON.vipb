@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2016-09-02 15:51:35" Modified_Date="2017-06-13 06:52:02" Creator="David Taylor" Comments="" ID="737fd2cb9ed9b5ccacf2dc5fcafb7b56">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2016-09-02 15:51:35" Modified_Date="2017-06-13 11:06:45" Creator="David Taylor" Comments="" ID="bc23961aee23f54b1f88a1538d3b58e6">
   <Library_General_Settings>
     <Package_File_Name>LV_JSON</Package_File_Name>
-    <Library_Version>0.0.0.12</Library_Version>
+    <Library_Version>0.0.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\src</Library_Source_Folder>
     <Library_Output_Folder>..\builds</Library_Output_Folder>
@@ -308,7 +308,7 @@
         <Path>..\src\Types</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1F76269F1E6CF1C6189A25D47CA94DE7</GUID>
+      <GUID>51397089E91BDEA4DDDD235C6F11C980</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -357,7 +357,7 @@
         <Path>..\src\lib\JSON Name-Value Pair.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>740FB4B48AC429A8BCC00F80C494D4BD</GUID>
+      <GUID>5C32E59E589ACE5B07708A090EAFFCF8</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
